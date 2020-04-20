@@ -1,0 +1,15 @@
+var json_JampaddetailsSheet1_1 = {
+"type": "FeatureCollection",
+"name": "JampaddetailsSheet1_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "goddys", "Phone Number": "044 2833 4455", "Address": "Flat 1A, Crystal Lawn, No.20,Haddows Road, 1st St, Nungambakkam, Chennai, Tamil Nadu 600006", "Google Location": "https:\/\/g.page\/goddys-in?share", "Lat": 13.0614875, "Long": 80.2487004 }, "geometry": { "type": "Point", "coordinates": [ 80.2487004, 13.0614875 ] } },
+{ "type": "Feature", "properties": { "Name": "mosh pit", "Phone Number": "097908 83171", "Address": "No 60, 21, Valluvar Kottam High Rd, Seetha Nagar, Nungambakkam, Chennai, Tamil Nadu 600034", "Google Location": "https:\/\/g.page\/moshpitjampad?share", "Lat": 13.0632315, "Long": 80.2412302 }, "geometry": { "type": "Point", "coordinates": [ 80.2412302, 13.0632315 ] } },
+{ "type": "Feature", "properties": { "Name": "cornerhouse", "Phone Number": "081898 70551", "Address": "5\/36, 1st St, New Secretariat Colony, A K Swamy Nagar, Kilpauk, Chennai, Tamil Nadu 600010", "Google Location": "https:\/\/goo.gl\/maps\/RWkBTfm4mjFVU8hw6", "Lat": 13.0423806, "Long": 80.200347 }, "geometry": { "type": "Point", "coordinates": [ 80.200347, 13.0423806 ] } },
+{ "type": "Feature", "properties": { "Name": "shruthi", "Phone Number": "044 2660 3630", "Address": "Old No. 4, New No. 7, Harleys Road, Kilpauk, Chennai, Tamil Nadu 600010", "Google Location": "https:\/\/goo.gl\/maps\/7AsF4icw891iwXYH8", "Lat": 13.0831499, "Long": 80.2413348 }, "geometry": { "type": "Point", "coordinates": [ 80.2413348, 13.0831499 ] } },
+{ "type": "Feature", "properties": { "Name": "Picture Productions", "Phone Number": "044 2858 5858", "Address": "61-62, Montieth Road, Egmore, Chennai, Tamil Nadu 600008", "Google Location": "https:\/\/goo.gl\/maps\/RTAsDhRex8oy3BnN8", "Lat": 13.06807, "Long": 80.2553274 }, "geometry": { "type": "Point", "coordinates": [ 80.2553274, 13.06807 ] } },
+{ "type": "Feature", "properties": { "Name": "Vincent Jam Pad", "Phone Number": null, "Address": "5, Central Ave, Taylor Estate, Kodambakkam, Chennai, Tamil Nadu 600024", "Google Location": "https:\/\/goo.gl\/maps\/hhBMaZLmsqSN8rpC7", "Lat": 13.053242, "Long": 80.2293196 }, "geometry": { "type": "Point", "coordinates": [ 80.2293196, 13.053242 ] } },
+{ "type": "Feature", "properties": { "Name": "The Rehearsal Room", "Phone Number": "9962525386", "Address": "Bollineni Hillside Rd, Nookampalayam, Arasankalani, Sithalapakkam, Chennai, Tamil Nadu 600119", "Google Location": null, "Lat": 12.8852455, "Long": 80.2015152 }, "geometry": { "type": "Point", "coordinates": [ 80.2015152, 12.8852455 ] } },
+{ "type": "Feature", "properties": { "Name": "Dome", "Phone Number": "8778117493", "Address": "Chennai,, J Nagar, Chennai, Tamil Nadu 600119", "Google Location": "https:\/\/goo.gl\/maps\/qHdQ5uQgK7b2JRs29", "Lat": 12.8920183, "Long": 80.2453285 }, "geometry": { "type": "Point", "coordinates": [ 80.2453285, 12.8920183 ] } }
+]
+}
